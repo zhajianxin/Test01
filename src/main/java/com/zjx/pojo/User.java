@@ -33,7 +33,6 @@ public class User {
 
 	public void setEmail(String email) {
 		this.email = email;
->>>>>>> refs/heads/hot_fix1
 	}
 
 }
